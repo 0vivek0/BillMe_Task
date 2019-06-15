@@ -1,0 +1,79 @@
+             Reprint
+    Locco Eatery                Bar
+ Rassasy Food Company
+Shop No. 12-15, Ground Floor, Bhoomi Mall,
+Sector 15, Belapur, Navi Mumbai - 400614.
+                --1.BAR--
+----------------BILL MEMO----------------
+   Bill No:6953-6498 Tbl:B1 By:locco
+                 Covers:2
+              Date:27-02-2019
+                Time:12:22
+          -- Token Number : 1 --
+
+------------------------------------------
+Item                    Rate   Qty Amount
+------------------------------------------
+Americano              90.0    1.0    90.0
+NYE Classic           390.0    1.0   390.0
+ Margerita
+Add Chicken            50.0    1.0    50.0
+Butter Chicken        310.0    1.0   310.0
+ Kachori
+Add Seafood            90.0    1.0    90.0
+Aglio Aglio           260.0    1.0   260.0
+ Mushrooms
+Andhra Chicken        340.0    1.0   340.0
+ Lollipop
+Asian Patatas         250.0    1.0   250.0
+ Bravas
+Asparagus Tempura     300.0    1.0   300.0
+ 4pcs
+Asparagus Tempura     590.0    1.0   590.0
+ 8pcs
+Avocado Cream Roll    350.0    1.0   350.0
+ 4 pcs
+Avocado Crream Roll   540.0    1.0   540.0
+ 8 pcs
+Basil Prawns          440.0    1.0   440.0
+BBQ Chicken Pizza     370.0    2.0   740.0
+Bessey Style Soup     180.0    1.0   180.0
+Bheja Ghotala Pav     275.0    1.0   275.0
+Bihari Kebab          340.0    1.0   340.0
+Brocolli Tikka Two    270.0    1.0   270.0
+ Way
+BROCCOLI SOUP         190.0    1.0   190.0
+------------------------------------------
+Total Qty:                    20.0
+------------------------------------------
+                       Sub Total:    5995.00
+   ------------------------------------------
+                  SC:10.0% @ 5995.0   599.50
+                 CGST:2.5% @ 5995.0   149.88
+                 SGST:2.5% @ 5995.0   149.88
+                         Total Bill: 6894.25
+   ------------------------------------------
+Absolutt              350.0    1.0   350.0
+NYE ABSOLUT 2+1       700.0    1.0   700.0
+NYE ABSOLUT FLAVOUR   750.0    1.0   750.0
+ 2+1
+NYE Absolut           375.0    1.0   375.0
+ Flavours
+------------------------------------------
+Total Qty:                     4.0
+------------------------------------------
+                       Sub Total:    2175.00
+   ------------------------------------------
+                  SC:10.0% @ 2175.0   217.50
+                  Vat:5.0% @ 2175.0   108.75
+                         Total Bill: 2501.25
+   ------------------------------------------
+     Grand Total: 9396
+   ------------------------------------------
+
+                    -
+         GSTIN:- 27BNHPM8582J1ZA
+           27/02/2019 13:33:46
+
+      Powered by TORQUS. Ver:9.1.84
+
